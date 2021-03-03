@@ -1,0 +1,15 @@
+table{
+    border:10px solid black;
+    font-size:50px;
+    width:100%;
+    text-align:center;
+    border-collapse:collapse;
+}
+
+th{
+    border:10px solid black;
+}
+
+td{
+    border:10px solid black;
+}
