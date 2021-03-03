@@ -1,0 +1,38 @@
+h1{
+    font-size:100px;
+    text-align:center;
+    text-transform:uppercase;
+    color:black;
+    margin:0% 0% 20% 0%;
+    padding:20% 0% 0% 0%;
+}
+
+.subheading{
+    font-size:40px;
+    font-weight:bold;
+    text-transform:capitalize;
+    width:800px;
+    margin-left:auto;
+    margin-right:auto;
+    color:black;
+    
+}
+
+
+
+footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    font-size:30px;
+    font-weight:bold;
+    color:black;
+    text-align:center;
+}
+
+header{
+    background-image:url("http://armyrang.com/web/product/big/201608/509_shop1_803038.jpg");
+    background-position:center;
+    background-size: cover;
+    
+}
